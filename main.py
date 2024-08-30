@@ -1,5 +1,6 @@
 import math
 
 
-def add(x, y):
-    return math.ceil(x) + math.floor(y)
+def add(num1, num2):
+    """Adds two numbers."""
+    return math.ceil(num1) + math.floor(num2)
