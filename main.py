@@ -1,5 +1,7 @@
 import math
 
+"""Main function."""
+
 
 def add(num1, num2):
     """Adds two numbers."""
