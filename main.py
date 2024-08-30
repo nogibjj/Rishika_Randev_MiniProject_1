@@ -1,6 +1,6 @@
-import math
-
 """Main function making use of the math module."""
+
+import math
 
 
 def add(num1, num2):
