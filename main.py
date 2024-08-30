@@ -1,6 +1,6 @@
 import math
 
-"""Main function."""
+"""Main function making use of the math module."""
 
 
 def add(num1, num2):
