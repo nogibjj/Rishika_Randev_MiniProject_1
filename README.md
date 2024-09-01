@@ -1,1 +1,1 @@
-# Rishika_Randev_MiniProject_1
+# Rishika Randev's MiniProject 1 (setting up a Python scaffold) for IDS706
